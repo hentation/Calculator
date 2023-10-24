@@ -21,7 +21,7 @@ public class Main {
                 firstNumber = result;
                 operation = continueCalculation;
             }
-//3etr4321
+//3etr43211
             System.out.println("Введите второе число: ");
             secondNumber = scanner.nextInt();
 
